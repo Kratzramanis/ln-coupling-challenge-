@@ -1,4 +1,4 @@
-# ln-coupling-challenge-
+# ln-coupling-challenge
 Goal: test whether rapid pressure pulses in dense ceramics produce a logarithmic temperature rise  ΔT  Δρ  ≈  κ1 ln⁡(ρ)   ΔTΔρ≈κ1​ln(ρ)​
     One-liner
     – Squeeze a piezo (PZT) pellet with millisecond pressure pulses.
